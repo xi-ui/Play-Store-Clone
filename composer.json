@@ -34,7 +34,8 @@
         "symfony/dom-crawler": "^4.3",
         "symfony/polyfill-iconv": "^1.11",
         "symfony/polyfill-mbstring": "^1.11",
-        "yajra/laravel-datatables-oracle": "v8.13.5"
+        "yajra/laravel-datatables-oracle": "v8.13.5",
+        "ext-gd":"*"
     },
     "require-dev": {
         "beyondcode/laravel-dump-server": "^1.0",
